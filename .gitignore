@@ -1,5 +1,3 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-_pdf
-.idea/
+*.sw?
+_site
+_pages

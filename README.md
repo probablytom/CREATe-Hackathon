@@ -1,3 +1,3 @@
-## Jekyll Documentation theme
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bruth/jekyll-docs-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](idratherbewriting.com/documentation-theme-jekyll/)
+Read the docs: http://bruth.github.io/jekyll-docs-template

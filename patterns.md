@@ -1,7 +1,7 @@
 ---
 
 title: "General Patterns"
-category: pat
+category: ref
 layout: default
 
 ---

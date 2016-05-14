@@ -14,10 +14,12 @@ Here we list a series of basic design patterns as a part of the pattern language
 ### Transfer Pattern
 
 **Conflict:**
+
 * Owner has a resource R
 * Receiver wants a resource R
 
 **Solution:**
+
 * Receiver acquires resource R
 * [Receiver does not acquire resource R]
 

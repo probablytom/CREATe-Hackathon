@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Trading Patterns'
-subtitle: 'Alternative: Disparity Patterns'
+subtitle: 'Alternative: Disparity Patterns'  # Toward a simplification of the most complex data
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''

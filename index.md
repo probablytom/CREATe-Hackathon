@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Trading Patterns"
+
 ---
 
 ### Trading Patterns

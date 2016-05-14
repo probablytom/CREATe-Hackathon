@@ -1,3 +1,11 @@
+---
+
+title: "Complex Patterns"
+category: pat
+layout: default
+
+---
+
 Competition
 
 Conflict:

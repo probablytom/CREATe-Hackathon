@@ -20,7 +20,7 @@ codeurl: 'https://github.com/probablytom/CREATe-Hackathon'
 # Default categories (in order) to appear in the navigation
 sections: [
     ['about', 'About'],
-    ['pat', 'Patterns']
+    ['ref', 'Patterns']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

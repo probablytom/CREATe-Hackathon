@@ -1,7 +1,7 @@
 ---
 
 title: "Complex Patterns"
-category: pat
+category: ref
 layout: default
 
 ---

@@ -29,13 +29,16 @@ Here we list a series of basic design patterns as a part of the pattern language
 ### Giving Pattern
 
 **Conflict:**
+
 * As with Transfer
 * Also, Owner is willing to undergo the transfer
 
 **Solution:**
+
 * As with Transfer
 
 **Consequence:**
+
 * Potential blackmail (willing to undergo transfer in avoidance of other situation)
 
 
@@ -45,10 +48,12 @@ Here we list a series of basic design patterns as a part of the pattern language
 ### Taking Pattern
 
 **Conflict:**
+
 * As with Transfer
 * Also, Owner's permission is unspecified or explicitly not given
 
 **Solution:**
+
 * Either as with Transfer (in which case, this is BAD) or the transfer does not occur
 
 
@@ -57,6 +62,7 @@ Here we list a series of basic design patterns as a part of the pattern language
 ### Trade Pattern
 
 **Conflict:**
+
 * As with Transfer
 * Also:  
    Owner wants resource R'  
@@ -64,6 +70,7 @@ Here we list a series of basic design patterns as a part of the pattern language
 (i.e. Transfer is mirrored)
 
 **Solution:**
+
 * As with Transfer, mirrored
 
 NB: this may or may not imply giving.
@@ -73,13 +80,16 @@ NB: this may or may not imply giving.
 ### Theft Pattern
 
 **Conflict:**
+
 * As with Taking
 * Resource is constrained in that it is not clonable (i.e. has some implication of constrained clonability)
 
 **Solutions:**
+
 * as with Taking
 
 **Consequence:**
+
 * Consider transfers on a blockchain. Unlawful acquisition of resources results in piracy becoming simple theft.
 
 
@@ -88,10 +98,12 @@ NB: this may or may not imply giving.
 ### Piracy Pattern
 
 **Conflict:**
+
 * As with Taking
 * Resource is constrained in that it is clonable (i.e. has some implication of clonability, alternatively is infinitely replicable)
 
 **Solutions:**
+
 * as with Taking
 
 ---------------------
@@ -99,6 +111,7 @@ NB: this may or may not imply giving.
 ## Pattern Modifying Parameters
 
 (i.e. things that specify and distinguish the patterns specified above)
+
 * clonability
 * resource transfer success or failure
 * permission granted, denied, not specified by Owner

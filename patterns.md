@@ -1,3 +1,11 @@
+---
+
+title: "General Patterns"
+category: pat
+layout: default
+
+---
+
 
 Name: Transfer
 

@@ -6,7 +6,7 @@ subtitle: 'Alternative: Disparity Patterns'  # Toward a simplification of the mo
 disqus_shortname: ''
 
 # if you use google analytics, add your tracking id here
-google_analytics_id: 'UA-77764111-1'
+google_analytics_id: ''
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
@@ -19,11 +19,8 @@ codeurl: 'https://github.com/probablytom/CREATe-Hackathon'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['about', 'About'],
+    ['pat', 'Patterns']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
@@ -40,7 +37,7 @@ highlighter: rouge
 future: true
 
 # Exclude non-site files
-exclude: ['bin', 'README.md', 'OCI', 'general_reports', 'patterns.md']
+exclude: ['bin', 'README.md', 'OCI', 'general_reports']
 
 # Use the kramdown Markdown renderer
 markdown: kramdown

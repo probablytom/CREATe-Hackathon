@@ -16,7 +16,7 @@ This site provides an overview of the work already done, its current utility, an
 
 Pages to look at:
 
-- [Definitions]("http://tomwallis.net/CREATe-Hackathon/definitions")
-- [Patterns]("http://tomwallis.net/CREATe-Hackathon/patterns")
-- [Complex Patterns]("http://tomwallis.net/CREATe-Hackathon/complexpatterns")
+- [Definitions](http://tomwallis.net/CREATe-Hackathon/definitions)
+- [Patterns](http://tomwallis.net/CREATe-Hackathon/patterns)
+- [Complex Patterns](http://tomwallis.net/CREATe-Hackathon/complexpatterns)
 

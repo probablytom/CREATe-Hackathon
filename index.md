@@ -6,7 +6,7 @@ title: "Trading Patterns"
 
 ### Trading Patterns
 
-This is David Creigh, Tom Wallis, and Tony Crowther's submission for the Glasgow CREATe hackathon in May 2016. 
+This is [David Creigh](https://github.com/thistleBgood), [Tom Wallis](https://github.com/probablytom), and Tony Crowther's submission for the Glasgow CREATe hackathon in May 2016. 
 
 The project attempts to solve the question: *"do legal alternatives reduce piracy"*? We believe that the answer can be found by employing design patterns to characterise interactions between legal entities in a robust, yet easy to understand way that can aid understanding and allow quick and cohesive models of legal interaction. 
 

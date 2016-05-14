@@ -1,3 +1,11 @@
+---
+
+title: "Definitions"
+category: ref
+layout: default
+
+---
+
 ### Pattern Language Components
 
 The entries on this page describe the basic parts that comprise the pattern language.

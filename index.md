@@ -13,3 +13,10 @@ The project attempts to solve the question: *"do legal alternatives reduce pirac
 When entities interact -- particularly with copyright law -- they often transfer and trade resources between each other, whether that be music files, books, or money. Different interactions between different groups of people are motivated by different problems, and provide different solutions. To represent this, we use Design Patterns, perfectly suited to providing situations where an issue might require a solution, and an appropriate and proven solution to the problem. We can use this to develop a rudimentary Pattern Language, which connects these patterns together into a cohesive whole. 
 
 This site provides an overview of the work already done, its current utility, and speculates on where this development should be taken next.
+
+Pages to look at:
+
+- [Definitions]("http://tomwallis.net/CREATe-Hackathon/definitions")
+- [Patterns]("http://tomwallis.net/CREATe-Hackathon/patterns")
+- [Complex Patterns]("http://tomwallis.net/CREATe-Hackathon/complexpatterns")
+

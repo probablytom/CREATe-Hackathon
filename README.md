@@ -1,11 +1,3 @@
-What's the affect of:
+## Jekyll Documentation theme
 
-- iPlayer
-- Netflix
-
-as legal alternatives on torrent sites?
-
-- Have they made a dent in whether people torrent?
-- Does torrenting affect their traffic?
-
-
+Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](idratherbewriting.com/documentation-theme-jekyll/)

@@ -20,3 +20,12 @@ Pages to look at:
 - [Patterns](http://tomwallis.net/CREATe-Hackathon/patterns)
 - [Complex Patterns](http://tomwallis.net/CREATe-Hackathon/complexpatterns)
 
+To discuss the project more or to learn more about design patterns and how they get used, you can contact us at: 
+
+- David Creigh:
+	- [davidcreigh AT hotmail DOT co.uk](mailto:davidcreigh@hotmail.co.uk)
+- Tom Wallis:
+	- [patterns AT tomwallis DOT net](mailto:patterns@tomwallis.net)
+	- [Personal Site](http://tomwallis.net/)
+
+
